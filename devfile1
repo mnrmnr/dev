@@ -2,5 +2,4 @@ git log -n (n=number)  (to show latest commits)
 git log --oneline
 git log --oneline -name
 git log --author=name
-git log --since=yy-mm-dd
-git log --until=yy-mm-dd
+git log --since=yy-mm-d
