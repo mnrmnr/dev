@@ -1,5 +1,3 @@
-git log -n (n=number)  (to show latest commits)
-git log --oneline
-git log --oneline -name
-git log --author=name
-git log --since=yy-mm-d
+git masterdev branch
+
+
